@@ -6,3 +6,4 @@ else:
 print(y, "- mniejszy 'y'")
 3 - mniejszy 'y'
 
+print("This code counts triangle sides")
